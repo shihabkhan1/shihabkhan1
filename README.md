@@ -7,17 +7,16 @@ Welcome to my GitHub Profile!
 ## 🚀 About Me
 As a PhD in Engineering I wear multiple hats!
 
-I love developing advanced probabilistic data-science solutions for complex problems.
+I love developing probabilistic machine learning solutions for complex problems.
 
-I have 3+ years of experience developing advanced Data Science solutions & providing performance data analytics for complex engineering problems for major clients from the construction & transport industry. I have 8+ years of experience developing mathematical models and programming quantitative solutions.
+I have 3+ years of experience developing novel machine learning solutions & providing performance data analytics for complex engineering problems for major clients from the construction & transport industry. I have 8+ years of experience developing mathematical models and programming quantitative solutions.
 
 Reach out to me at: shihabkhan1[at]gmail[dot]com
 
 I specialize in:
 1. Data Science and Machine Learning
 2. Mathematical modelling
-3. Asset performance prediction & analytics
-4. Structural Reliability Engineering
+3. Rare event forecasting
 
 ## ⚙️ Featured Projects
 <div>
