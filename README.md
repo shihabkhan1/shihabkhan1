@@ -9,7 +9,7 @@ As a PhD in Engineering I wear multiple hats!
 
 I love developing probabilistic machine learning solutions for complex problems.
 
-I have 3+ years of experience developing novel machine learning solutions & providing performance data analytics for complex engineering problems for major clients from the construction & transport industry. I have 8+ years of experience developing mathematical models and programming quantitative solutions.
+I have 5+ years of experience developing novel machine learning solutions & providing performance data analytics for complex engineering problems for major clients from the construction & transport industry. I have 8+ years of experience developing mathematical models and programming quantitative solutions.
 
 Reach out to me at: shihabkhan1[at]gmail[dot]com
 
